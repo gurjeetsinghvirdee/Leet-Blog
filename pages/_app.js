@@ -1,4 +1,6 @@
-import { Component } from '../components/layout';
+
+import { Component } from 'react';
+import Layout from '../components/layout';
 import '../styles/globals.css'
 
 function MyApp ({ pageProps }) {
