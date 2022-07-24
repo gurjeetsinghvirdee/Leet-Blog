@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Layout ({ children }) {
+export default function Layout({ children }) {
     return (
         <div className="flex flex-col min-h-screen">
             <header className="bg-amber-100 mb-8 py-4">
