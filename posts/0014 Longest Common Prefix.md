@@ -1,5 +1,5 @@
 ---
-title: 'Longest Common Prefix'
+title: ' 14. Longest Common Prefix'
 metaTitle: 'Longest Common Prefix in Javascript'
 metaDesc: 'LeetCode solution Longest Common Prefix in javascript'
 socialImage: Images/leetcode-grinding-guide.jpg
@@ -28,13 +28,13 @@ Output: ""
 Explanation: There is no common prefix among the input strings.
 ```
 
-__Constraints:__
+### __Constraints:__
 
 * __1 <= strs.length <= 200__
 * __0 <= strs[i].length <= 200__
 * __strs[i]__ consists of only lower-case English letters.
 
-__Solution:__
+### __Solution:__
 
 ```js
 /**

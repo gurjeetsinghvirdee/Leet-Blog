@@ -1,5 +1,5 @@
 ---
-title: 'Two Sum'
+title: ' 1. Two Sum '
 metaTitle: 'Two Sum LeetCode Solution'
 metaDesc: 'LeetCode Solution in Javascript'
 socialImage: Images/leetcode-grinding-guide.jpg
@@ -12,7 +12,7 @@ tags:
 
 ### Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+#### You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 You can return the answer in any order.
 
@@ -35,7 +35,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-__Constraints:__
+### __Constraints:__
 
 * __2 <= nums.length <= 104__
 * __-109 <= nums[i] <= 109__
@@ -43,9 +43,9 @@ __Constraints:__
 * Only one valid answer exists.
  
 
-__Follow-up:__ Can you come up with an algorithm that is less than __O(n2)__ time complexity?
+### __Follow-up:__ Can you come up with an algorithm that is less than __O(n2)__ time complexity?
 
-__Solution__
+### __Solution:__
 
 ```js
 /**
