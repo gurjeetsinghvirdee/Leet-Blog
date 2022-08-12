@@ -36,7 +36,7 @@ __Constraints:__
 
 __Solution:__
 
-```javascript
+```js
 /**
  * @param {string[]} strs
  * @return {string}
