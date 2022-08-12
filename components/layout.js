@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Layout({ children }) {
     return (
         <div className="flex flex-col min-h-screen">
-            <header className="bg-amber-100 mb-8 py-4">
+            <header className="bg-blue-200 mb-8 py-4">
                 <div className="container mx-auto flex justify-center">
                     <Link href='/'>
                         <a>Home</a>
@@ -12,7 +12,7 @@ export default function Layout({ children }) {
                 </div>
             </header>
             <main className="container mx-auto flex-1 bg-slate-100">{children}</main>
-            <footer className="bg-amber-100 mt-8 py-4">
+            <footer className="bg-blue-200 mt-8 py-4">
                 <div className="container mx-auto flex justify-center">
                     &copy; 2022 Leetcode Solutions
                 </div>
