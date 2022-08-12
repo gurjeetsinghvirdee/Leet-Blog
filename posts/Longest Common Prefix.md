@@ -1,18 +1,18 @@
 ---
 title: 'Longest Common Prefix'
 metaTitle: 'Longest Common Prefix in Javascript'
-metaDesc: 'Leetcode solution Longest Common Prefix in javascript'
-socialImage: images/leetcode-grinding-guide.jpg
+metaDesc: 'LeetCode solution Longest Common Prefix in javascript'
+socialImage: Images/leetcode-grinding-guide.jpg
 date: '2021-12-11'
 tags:
-  - Leetcode
+  - LeetCode
   - Markdown
-  - javascript
+  - Javascript
 ---
 
 ### Write a function to find the longest common prefix string amongst an array of strings.
 
-If there is no common prefix, return an empty string `""`.
+If there is no common prefix, return an empty string __""__.
 
  
 __Example 1:__
@@ -30,9 +30,9 @@ Explanation: There is no common prefix among the input strings.
 
 __Constraints:__
 
-* `1 <= strs.length <= 200`
-* `0 <= strs[i].length <= 200`
-* `strs[i]` consists of only lower-case English letters.
+* __1 <= strs.length <= 200__
+* __0 <= strs[i].length <= 200__
+* __strs[i]__ consists of only lower-case English letters.
 
 __Solution:__
 
