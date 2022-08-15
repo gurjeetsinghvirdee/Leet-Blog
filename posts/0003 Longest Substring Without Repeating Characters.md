@@ -1,3 +1,15 @@
+---
+title: ' 3. Longest Substring Without Repeating Characters'
+metaTitle: 'Longest Substring Without Repeating Charactersin Javascript'
+metaDesc: 'LeetCode solution Longest Substring Without Repeating Characters in javascript'
+socialImage: Images/leetcode-grinding-guide.jpg
+date: '2021-12-11'
+tags:
+  - LeetCode
+  - Markdown
+  - Javascript
+---
+
 ### Given a string __s__, find the length of the longest substring without repeating characters.
  
 __Example 1:__
