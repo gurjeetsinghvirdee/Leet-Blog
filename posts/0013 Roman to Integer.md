@@ -29,7 +29,7 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 
 * __I__ can be placed before __V (5) and X (10)__ to make __4__ and __9__. 
 * __X__ can be placed before __L (50) and C (100)__ to make __40__ and __90__. 
-* __C__ can be placed before __D (500) and __ (1000)__ to make __400__ and __900__.
+* __C__ can be placed before __D (500) and  (1000)__ to make __400__ and __900__.
 
 Given a roman numeral, convert it to an integer.
 
