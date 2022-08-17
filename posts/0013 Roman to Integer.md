@@ -28,8 +28,8 @@ For example, __2__ is written as __II__ in Roman numeral, just two one's added t
 Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not __IIII__. Instead, the number four is written as __IV__. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as __IX__. There are six instances where subtraction is used:
 
 * __I__ can be placed before __V (5) and X (10)__ to make __4__ and __9__. 
-* `X` can be placed before __L (50) and C (100)__ to make __40__ and __90__. 
-* `C` can be placed before __D (500) and __ (1000)__ to make __400__ and __900__.
+* __X__ can be placed before __L (50) and C (100)__ to make __40__ and __90__. 
+* __C__ can be placed before __D (500) and __ (1000)__ to make __400__ and __900__.
 
 Given a roman numeral, convert it to an integer.
 
