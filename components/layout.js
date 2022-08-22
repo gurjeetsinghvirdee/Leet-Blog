@@ -8,13 +8,13 @@ export default function Layout({ children }) {
                     <Link href='/'>
                         <a>Home</a>
                     </Link>
-                    <span className="mx-auto">LeetCode Solution in JavaScript</span>
+                    <span className="mx-auto">Leet Blog</span>
                 </div>
             </header>
             <main className="container mx-auto flex-1 bg-slate-100">{children}</main>
             <footer className="bg-blue-200 mt-8 py-4">
                 <div className="container mx-auto flex justify-center">
-                    &copy; 2022 LeetCode Solutions
+                    &copy; 2022 Leet Blog
                 </div>
             </footer>
         </div>
