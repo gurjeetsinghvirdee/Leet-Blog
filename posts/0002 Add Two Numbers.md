@@ -43,6 +43,8 @@ Output: [8,9,9,9,0,0,0,1]
 
 ### __Solution:__
 
+__JavaScript__
+
 ```js
 /**
  * Definition for singly-linked list.
