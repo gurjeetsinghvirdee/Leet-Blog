@@ -36,6 +36,8 @@ Explanation: There is no common prefix among the input strings.
 
 ### __Solution:__
 
+__JavaScript__
+
 ```js
 /**
  * @param {string[]} strs
