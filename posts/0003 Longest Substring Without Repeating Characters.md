@@ -41,6 +41,8 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 #### __Solution:__
 
+__JavaScript__
+
 ```js
 /**
  * @param {string} s
