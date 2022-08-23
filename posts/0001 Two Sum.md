@@ -45,7 +45,9 @@ Output: [0,1]
 
 ### __Follow-up:__ Can you come up with an algorithm that is less than __O(n2)__ time complexity?
 
-### __Solution:__
+### __Solutions:__
+
+__JavaScript__
 
 ```js
 /**
