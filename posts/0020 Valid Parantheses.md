@@ -39,7 +39,7 @@ Output: false
 ### __Constraints:__
   
 * __1 <= s.length <= 104__  
-* __s__ consists of parentheses only __'()[]{}'__.
+* __s__ consists of parentheses only __'()[]{}'.__
 
 ### __Solutions:__
 
