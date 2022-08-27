@@ -52,7 +52,7 @@ Output: []
 
 ### __Solutions:__
 
-__Javascript__
+__JavaScript__
 
 ```js
 
