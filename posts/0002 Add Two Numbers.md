@@ -16,7 +16,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ### __Example 1:__
 
-![Add Two Number](https://raw.githubusercontent.com/gurjeetsinghvirdee/leetcode-solution-in-js/master/src/Asset/addtwonumber1.jpg)
+![Add Two Number](https://raw.githubusercontent.com/gurjeetsinghvirdee/leetcode-solution-in-js/master/src/Asset/addtwonumber1.jpg?token=GHSAT0AAAAAABWDL6DZPEK74KKB5D7DUY4UYYKOTZQ)
 
 ```
 Input: l1 = [2,4,3], l2 = [5,6,4]
