@@ -72,6 +72,7 @@ __JavaScript__
 
         let shift = 0;
         let shiftDivisor = absoluteDivisor;
+        
         while (absoluteDividend >= shiftedDivisor) {
             shift++;
             shiftedDivisor = absoluteDivisor << shift;
